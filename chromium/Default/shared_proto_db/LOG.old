@@ -1,2 +1,3 @@
-2025/10/23-22:44:48.717 b4c Creating DB /home/gh0sty/.config/chromium/Default/shared_proto_db since it was missing.
-2025/10/23-22:44:48.729 b4c Reusing MANIFEST /home/gh0sty/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2025/10/24-01:38:57.762 672b Reusing MANIFEST /home/gh0sty/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2025/10/24-01:38:57.770 672b Recovering log #3
+2025/10/24-01:38:57.770 672b Reusing old log /home/gh0sty/.config/chromium/Default/shared_proto_db/000003.log 

@@ -14,18 +14,7 @@ input {
         // scroll-method "no-scroll"
     }
 
-    trackpoint {
-        // off
-        // natural-scroll
-        // accel-speed 0.2
-        // accel-profile "flat"
-        // scroll-method "on-button-down"
-        // scroll-button 273
-        // scroll-button-lock
-        // middle-emulation
-    }
 
-    // Uncomment this to make the mouse warp to the center of newly focused windows.
      warp-mouse-to-focus
 
     // Focus windows and outputs automatically when moving the mouse into them.
@@ -70,9 +59,6 @@ input {
     position x=1280 y=0
 }
 
-// Settings that influence how windows are positioned and sized.
-// Find more information on the wiki:
-// https://yalter.github.io/niri/Configuration:-Layout
 layout {
     // Set gaps around windows in logical pixels.
     gaps 16 
@@ -116,6 +102,10 @@ layout {
 }
 
 spawn-sh-at-startup "swaybg -i ~/Pictures/wallpaper1.png"
+spawn-at-startup "waybar"
+spawn-at-startup "ghostty"
+spawn-at-startup "firefox"
+spawn-at-startup "swaync"
 
 hotkey-overlay {
      skip-at-startup
@@ -126,6 +116,7 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 animations {
      slowdown 2.9
 }
+
 
 window-rule {
     match app-id=r#"firefox$"# title="^Picture-in-Picture$"

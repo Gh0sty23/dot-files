@@ -1,2 +1,3 @@
-2025/10/23-22:44:50.853 b4c Creating DB /home/gh0sty/.config/chromium/Default/GCM Store since it was missing.
-2025/10/23-22:44:50.862 b4c Reusing MANIFEST /home/gh0sty/.config/chromium/Default/GCM Store/MANIFEST-000001
+2025/10/24-01:39:01.941 672b Reusing MANIFEST /home/gh0sty/.config/chromium/Default/GCM Store/MANIFEST-000001
+2025/10/24-01:39:01.941 672b Recovering log #3
+2025/10/24-01:39:01.941 672b Reusing old log /home/gh0sty/.config/chromium/Default/GCM Store/000003.log 

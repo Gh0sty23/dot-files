@@ -1,18 +1,15 @@
-
-
-              QQQ               
-             QQQQQ              
-            QQQQQQQ             
-            QQQ QQQQ            
-           QQQR  QQQQ           
-          QQQP    QQQP          
-         QQQQ      QQQR         
-        QQQQ        QQQ         
-        QQQ          QQQ        
-       QQQ           PQQQ       
- QQR  QQQ             QQQQ  PQ  
- QQQQQQQQ              PQQQQQQQ 
- QQQQQQQQQQQP      PQQQQQQQQQQQ 
-      QQQP            QQQQ      
-
+                              
+             ###              
+            #####             
+            ######            
+           ### ###            
+          ###   ###           
+         ###     ###          
+        ####      ###         
+        ###        ###        
+       ###          ###       
+  ### ###           ### ###   
+ ########           ########  
+    #######       ########    
+                              
 
