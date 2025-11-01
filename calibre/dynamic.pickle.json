@@ -1,0 +1,23 @@
+{
+  "choose-export-folder-for-import": "/home/gh0sty/Downloads/backup",
+  "select-folder-for-imported-library": "/home/gh0sty/Library/fiction/sci-fi",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "rating",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_was_run": true
+}

@@ -1,0 +1,12 @@
+{
+  "accounts": {},
+  "aliases": {},
+  "encryption": "TLS",
+  "from_": "maxxy_manguerra@disroot.org",
+  "relay_host": null,
+  "relay_password": "",
+  "relay_port": 25,
+  "relay_username": null,
+  "subjects": {},
+  "tags": {}
+}

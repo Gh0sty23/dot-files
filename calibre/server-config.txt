@@ -1,0 +1,9 @@
+# Password based authentication to access the server
+# Normally, the server is unrestricted, allowing anyone to access it. You can restrict access to predefined users with this option.
+auth True
+# Ban IP addresses that have repeated login failures
+# Temporarily bans access for IP addresses that have repeated login failures for the specified number of minutes. Useful to prevent attempts at guessing passwords. If set to zero, no banning is done.
+ban_for 30
+# A prefix to prepend to all URLs
+# Useful if you wish to run this server behind a reverse proxy. For example use, /calibre as the URL prefix.
+url_prefix Gh0sty

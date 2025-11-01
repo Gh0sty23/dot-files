@@ -1,0 +1,551 @@
+{
+  "add_comments_to_email": true,
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA2AAAAUYAAAEKAf////8BAAAAAQA="
+  },
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "choose-merge-dialog-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABZQAAAQAA/////wEAAAABAA=="
+  },
+  "cover_grid_background": {
+    "dark": [
+      45,
+      45,
+      45
+    ],
+    "dark_texture": null,
+    "light": [
+      80,
+      80,
+      80
+    ],
+    "light_texture": null,
+    "migrated": true
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 843,
+      "width": 1040,
+      "x": -3,
+      "y": -30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 810,
+      "width": 1034,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 810,
+      "width": 1034,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAD////9////4gAABAwAAAMsAAAAAAAAAAAAAAQJAAADKQAAAAAAAAAABkAAAAAAAAAAAAAABAkAAAMp"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "HDMI-A-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-choose-merge-dialog-geometry": {
+    "frame_geometry": {
+      "height": 683,
+      "width": 635,
+      "x": 473,
+      "y": 75
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 652,
+      "width": 635,
+      "x": 473,
+      "y": 106
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 652,
+      "width": 635,
+      "x": 473,
+      "y": 106
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHZAAAASwAABFMAAAL1AAAB2QAAAGoAAARTAAAC9QAAAAAAAAAABkAAAAHZAAAAagAABFMAAAL1"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "DELL P2014H",
+      "serial": "1D64V44I205L",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_single_dialog_geom": {
+    "frame_geometry": {
+      "height": 791,
+      "width": 1530,
+      "x": 25,
+      "y": 21
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 760,
+      "width": 1530,
+      "x": 25,
+      "y": 52
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 760,
+      "width": 1530,
+      "x": 25,
+      "y": 52
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAFQAABhIAAAMrAAAAGQAAADQAAAYSAAADKwAAAAAAAAAABkAAAAAZAAAANAAABhIAAAMr"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "DELL P2014H",
+      "serial": "1D64V44I205L",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-duplicates-question-dialog-geometry": {
+    "frame_geometry": {
+      "height": 409,
+      "width": 498,
+      "x": 531,
+      "y": 203
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 378,
+      "width": 498,
+      "x": 531,
+      "y": 234
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 378,
+      "width": 498,
+      "x": 531,
+      "y": 234
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAITAAAAywAABAQAAAJjAAACEwAAAOoAAAQEAAACYwAAAAAAAAAABkAAAAITAAAA6gAABAQAAAJj"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "DELL P2014H",
+      "serial": "1D64V44I205L",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-exim-calibre-geometry": {
+    "frame_geometry": {
+      "height": 843,
+      "width": 776,
+      "x": 375,
+      "y": 45
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 810,
+      "width": 770,
+      "x": 378,
+      "y": 75
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 810,
+      "width": 770,
+      "x": 378,
+      "y": 75
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAF3AAAALQAABH4AAAN3AAABegAAAEsAAAR7AAADdAAAAAAAAAAABkAAAAF6AAAASwAABHsAAAN0"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "HDMI-A-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metasingle_window_geometry3": {
+    "frame_geometry": {
+      "height": 841,
+      "width": 1530,
+      "x": 25,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 810,
+      "width": 1530,
+      "x": 25,
+      "y": 31
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 810,
+      "width": 1530,
+      "x": 25,
+      "y": 31
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAAAAABhIAAANIAAAAGQAAAB8AAAYSAAADSAAAAAAAAAAABkAAAAAZAAAAHwAABhIAAANI"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "DELL P2014H",
+      "serial": "1D64V44I205L",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences dialog geometry": {
+    "frame_geometry": {
+      "height": 753,
+      "width": 936,
+      "x": -3,
+      "y": -30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 720,
+      "width": 930,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 720,
+      "width": 930,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAD////9////4gAAA6QAAALSAAAAAAAAAAAAAAOhAAACzwAAAAAAAAAABkAAAAAAAAAAAAAAA6EAAALP"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "HDMI-A-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "gpm_template_editor_font": "Segoe UI",
+  "gpm_template_editor_word_wrap_mode": true,
+  "grid view visible": false,
+  "library_usage_stats": {
+    "/home/gh0sty/Library/computer_science": 7,
+    "/home/gh0sty/Library/fiction/sci-fi": 11,
+    "/home/gh0sty/Library/history": 41,
+    "/home/gh0sty/Library/political_theory": 32,
+    "/home/gh0sty/Library/sciencekid's": 24
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.23042505592841164,
+      "cover_browser_width": 0.34980392156862744,
+      "quick_view_height": 0.25615212527964204,
+      "tag_browser_width": 0.24941176470588236
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.2996078431372549,
+      "cover_browser_height": 0.28556593977154726,
+      "quick_view_height": 0.23779854620976115,
+      "tag_browser_width": 0.2996078431372549
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
+  },
+  "previous_sort_order_BooksView": {
+    "rating": true,
+    "timestamp": false,
+    "title": true
+  },
+  "quick_start_guide_added": true,
+  "qv_open_at_shutdown": false,
+  "recently_used_languages": [
+    "English"
+  ],
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "search bar visible": true,
+  "server3_warning_done": true,
+  "tag browser search box visible": false,
+  "template_functions_prefs_st_show_help": true,
+  "template_functions_prefs_tf_show_help": true,
+  "windows_register_default_programs": "8.12.0"
+}

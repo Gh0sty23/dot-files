@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_choose_library_dialog</key>
+	<array>
+		<string>Z:\Library\Computer science library</string>
+		<string>Z:\Library</string>
+		<string>Z:\Sciencekid's Personal Lib</string>
+		<string>Z:\Mephisto's Personal Lib</string>
+		<string>Z:\Chasu's Personal Lib</string>
+		<string>Z:\SciFi</string>
+		<string>Z:\History Library</string>
+		<string>Z:\Political Theory Library</string>
+		<string>Political Theory</string>
+		<string>Z:\Computer science library</string>
+	</array>
+	<key>lineedit_history_store_config_chooser_query</key>
+	<array/>
+	<key>lineedit_history_store_search_search</key>
+	<array>
+		<string>bn:1947766066</string>
+	</array>
+	<key>lineedit_history_store_search_search_author</key>
+	<array>
+		<string>Lenin</string>
+		<string>Salinas, Stacey Anne</string>
+		<string>Stacey Anne Salinas</string>
+		<string>salinas</string>
+	</array>
+	<key>lineedit_history_store_search_search_title</key>
+	<array>
+		<string>The Three Sources and Three Component Parts of Marxism</string>
+		<string>Diasporic Cold Warriors</string>
+		<string>bn:1947766066</string>
+		<string>pinay guerrilleras</string>
+		<string>socialism: utopian and scientific</string>
+	</array>
+</dict>
+</plist>

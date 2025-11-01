@@ -1,0 +1,566 @@
+18:26:24.915: Platform: Wayland
+18:26:24.915: CPU Name: AMD Ryzen 5 3500 6-Core Processor
+18:26:24.915: CPU Speed: 3820.732MHz
+18:26:24.915: Physical Cores: 6, Logical Cores: 6
+18:26:24.915: Physical Memory: 15930MB Total, 2430MB Free
+18:26:24.915: Kernel Version: Linux 6.17.5-arch1-1
+18:26:24.915: Distribution: "Arch Linux" Unknown
+18:26:24.915: Desktop Environment: niri (niri)
+18:26:24.915: Session Type: wayland
+18:26:24.916: Current Date/Time: 2025-10-26, 06:26:24 N.H.
+18:26:24.916: Browser Hardware Acceleration: true
+18:26:24.916: Qt Version: 6.10.0 (runtime), 6.9.2 (compiled)
+18:26:24.916: Portable mode: false
+18:26:24.944: OBS 32.0.1 (linux)
+18:26:24.944: ---------------------------------
+18:26:24.953: ---------------------------------
+18:26:24.953: audio settings reset:
+18:26:24.953: 	samples per sec: 48000
+18:26:24.953: 	speakers:        2
+18:26:24.953: 	max buffering:   960 milliseconds
+18:26:24.953: 	buffering type:  dynamically increasing
+18:26:24.955: ---------------------------------
+18:26:24.955: Initializing OpenGL...
+18:26:24.955: Using EGL/Wayland
+18:26:24.994: Initialized EGL 1.5
+18:26:25.021: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+18:26:25.021: OpenGL loaded successfully, version 3.3.0 NVIDIA 580.95.05, shading language 3.30 NVIDIA via Cg compiler
+18:26:25.047: ---------------------------------
+18:26:25.047: video settings reset:
+18:26:25.047: 	base resolution:   1600x900
+18:26:25.047: 	output resolution: 1280x720
+18:26:25.047: 	downscale filter:  Bicubic
+18:26:25.047: 	fps:               60/1
+18:26:25.047: 	format:            NV12
+18:26:25.047: 	YUV mode:          Rec. 709/Partial
+18:26:25.047: NV12 texture support enabled
+18:26:25.047: P010 texture support not available
+18:26:25.048: Audio monitoring device:
+18:26:25.048: 	name: Default
+18:26:25.048: 	id: default
+18:26:25.057: ---------------------------------
+18:26:25.058: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:26:25.060: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+18:26:25.062: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:26:25.062: Failed to initialize module 'decklink.so'
+18:26:25.164: [pipewire] Available capture sources:
+18:26:25.164: [pipewire]     - Monitor source
+18:26:25.164: [pipewire]     - Window source
+18:26:25.173: v4l2loopback not installed, virtual camera not registered
+18:26:25.271: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+18:26:25.271: FFmpeg VAAPI H264 encoding not supported
+18:26:25.271: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+18:26:25.271: FFmpeg VAAPI AV1 encoding not supported
+18:26:25.272: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+18:26:25.272: FFmpeg VAAPI HEVC encoding not supported
+18:26:25.724: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.0, AV1 supported: false
+18:26:25.759: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+18:26:25.759: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.9.2 | Qt version (run-time): 6.10.0
+18:26:25.759: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+18:26:25.762: [obs-websocket] [obs_module_load] Module loaded.
+18:26:25.769: ---------------------------------
+18:26:25.769:   Loaded Modules:
+18:26:25.769:     wlrobs.so
+18:26:25.769:     text-freetype2.so
+18:26:25.769:     rtmp-services.so
+18:26:25.769:     obs-x264.so
+18:26:25.769:     obs-websocket.so
+18:26:25.769:     obs-webrtc.so
+18:26:25.769:     obs-vst.so
+18:26:25.769:     obs-transitions.so
+18:26:25.769:     obs-qsv11.so
+18:26:25.769:     obs-outputs.so
+18:26:25.769:     obs-nvenc.so
+18:26:25.769:     obs-libfdk.so
+18:26:25.769:     obs-filters.so
+18:26:25.769:     obs-ffmpeg.so
+18:26:25.769:     linux-v4l2.so
+18:26:25.769:     linux-pulseaudio.so
+18:26:25.769:     linux-pipewire.so
+18:26:25.769:     linux-jack.so
+18:26:25.769:     linux-capture.so
+18:26:25.769:     linux-alsa.so
+18:26:25.769:     image-source.so
+18:26:25.769:     frontend-tools.so
+18:26:25.769:     decklink-output-ui.so
+18:26:25.769:     decklink-captions.so
+18:26:25.769: ---------------------------------
+18:26:25.769: ---------------------------------
+18:26:25.769: Available Encoders:
+18:26:25.769:   Video Encoders:
+18:26:25.769: 	- ffmpeg_svt_av1 (SVT-AV1)
+18:26:25.769: 	- ffmpeg_aom_av1 (AOM AV1)
+18:26:25.769: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+18:26:25.769: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+18:26:25.769: 	- obs_x264 (x264)
+18:26:25.769:   Audio Encoders:
+18:26:25.769: 	- ffmpeg_aac (FFmpeg AAC)
+18:26:25.769: 	- ffmpeg_opus (FFmpeg Opus)
+18:26:25.769: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+18:26:25.769: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+18:26:25.769: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+18:26:25.769: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+18:26:25.769: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+18:26:25.769: 	- libfdk_aac (libfdk AAC)
+18:26:25.769: ==== Startup complete ===============================================
+18:26:25.808: All scene data cleared
+18:26:25.808: ------------------------------------------------
+18:26:25.811: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+18:26:25.811: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:26:25.811: pulse-input: Started recording from 'alsa_output.pci-0000_08_00.4.analog-stereo.monitor' (default)
+18:26:25.811: [Loaded global audio device]: 'Äänentoistolaite'
+18:26:25.811: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+18:26:25.812: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+18:26:25.812: pulse-input: Started recording from 'alsa_input.usb-KYE_Systems_Corp._FaceCam_1000X-02.mono-fallback' (default)
+18:26:25.812: [Loaded global audio device]: 'Mic/Aux'
+18:26:25.813: Switched to scene 'Scene 2'
+18:26:25.813: ------------------------------------------------
+18:26:25.813: Loaded scenes:
+18:26:25.813: - scene 'Scene 2':
+18:26:25.813: ------------------------------------------------
+18:26:25.828: Device for 'Audio Output Capture' source is also used for audio monitoring:
+18:26:25.828: Deduplication logic is being applied to all monitored sources.
+18:26:25.828: 
+18:26:26.553: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Äänentoistolaite)
+18:26:26.553: 
+18:26:35.378: PipeWire initialized
+18:26:35.381: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene 2'
+18:26:35.404: [pipewire] Screencast session created
+18:26:35.406: [pipewire] Asking for monitor and window
+18:26:38.270: [pipewire] source selected, setting up screencast
+18:26:38.274: [pipewire] Server version: 1.4.9
+18:26:38.274: [pipewire] Library version: 1.4.9
+18:26:38.274: [pipewire] Header version: 1.4.8
+18:26:38.275: [pipewire] Created stream 0x556db4de1610
+18:26:38.275: [pipewire] Stream 0x556db4de1610 state: "connecting" (error: none)
+18:26:38.275: [pipewire] Playing stream 0x556db4de1610
+18:26:38.275: [pipewire] Stream 0x556db4de1610 state: "paused" (error: none)
+18:26:38.282: [pipewire] Negotiated format:
+18:26:38.282: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:26:38.282: [pipewire]     Modifier: 0x0
+18:26:38.282: [pipewire]     Size: 1600x900
+18:26:38.282: [pipewire]     Framerate: 0/1
+18:26:38.284: [pipewire] Negotiated format:
+18:26:38.284: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:26:38.284: [pipewire]     Modifier: 0x300000000cdb014
+18:26:38.284: [pipewire]     Size: 1600x900
+18:26:38.284: [pipewire]     Framerate: 0/1
+18:26:38.285: [pipewire] Stream 0x556db4de1610 state: "streaming" (error: none)
+18:30:01.892: pulse-input: Stopped recording from 'alsa_input.usb-DCMT_Technology_USB_Condenser_Microphone_214b206000000178-00.mono-fallback'
+18:30:01.892: pulse-input: Got 8631 packets with 10357200 frames
+18:30:01.892: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+18:30:01.893: pulse-input: Audio format: s24le, 48000 Hz, 1 channels
+18:30:01.893: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+18:30:01.893: pulse-input: Started recording from 'alsa_input.usb-DCMT_Technology_USB_Condenser_Microphone_214b206000000178-00.mono-fallback'
+18:30:05.486: [obs-nvenc: 'simple_video_recording'] settings:
+18:30:05.486: 	codec:        H264
+18:30:05.486: 	rate_control: CQP
+18:30:05.486: 	cqp:          21
+18:30:05.486: 	keyint:       250
+18:30:05.486: 	preset:       p5
+18:30:05.486: 	tuning:       hq
+18:30:05.486: 	multipass:    qres
+18:30:05.486: 	profile:      high
+18:30:05.486: 	width:        1280
+18:30:05.486: 	height:       720
+18:30:05.486: 	b-frames:     2
+18:30:05.486: 	b-ref-mode:   0
+18:30:05.486: 	lookahead:    true (8 frames)
+18:30:05.486: 	aq:           true
+18:30:05.486: 
+18:30:05.512: libfdk_aac encoder created
+18:30:05.512: libfdk_aac bitrate: 192, channels: 2
+18:30:05.527: ==== Recording Start ===============================================
+18:30:05.527: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/2025-10-26 18-30-05.mp4'...
+18:30:11.428: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+18:30:11.429: [mp4 muxer: 'simple_file_output'] Number of fragments: 2
+18:30:11.429: [mp4 muxer: 'simple_file_output'] Full moov size: 5 KiB
+18:30:11.429: [mp4 muxer: 'simple_file_output'] Final mdat size: 1678 KiB
+18:30:11.429: Output 'simple_file_output': stopping
+18:30:11.429: Output 'simple_file_output': Total frames output: 339
+18:30:11.429: Output 'simple_file_output': Total drawn frames: 353 (354 attempted)
+18:30:11.429: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.3%)
+18:30:11.429: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+18:30:11.429: [mp4 output: 'simple_file_output'] File output complete. Finalization took 0 ms.
+18:30:11.430: ==== Recording Stop ================================================
+18:30:11.489: libfdk_aac encoder destroyed
+18:30:41.401: Settings changed (outputs)
+18:30:41.401: ------------------------------------------------
+18:30:53.440: [obs-nvenc: 'simple_video_recording'] settings:
+18:30:53.440: 	codec:        H264
+18:30:53.440: 	rate_control: CQP
+18:30:53.440: 	cqp:          21
+18:30:53.440: 	keyint:       250
+18:30:53.440: 	preset:       p5
+18:30:53.440: 	tuning:       hq
+18:30:53.440: 	multipass:    qres
+18:30:53.440: 	profile:      high
+18:30:53.440: 	width:        1280
+18:30:53.440: 	height:       720
+18:30:53.440: 	b-frames:     2
+18:30:53.440: 	b-ref-mode:   0
+18:30:53.440: 	lookahead:    true (8 frames)
+18:30:53.440: 	aq:           true
+18:30:53.440: 
+18:30:53.463: libfdk_aac encoder created
+18:30:53.463: libfdk_aac bitrate: 192, channels: 2
+18:30:53.466: ==== Recording Start ===============================================
+18:30:53.466: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 18-30-53.mp4'...
+18:31:00.365: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+18:31:00.366: [mp4 muxer: 'simple_file_output'] Number of fragments: 2
+18:31:00.366: [mp4 muxer: 'simple_file_output'] Full moov size: 6 KiB
+18:31:00.366: [mp4 muxer: 'simple_file_output'] Final mdat size: 1642 KiB
+18:31:00.366: Output 'simple_file_output': stopping
+18:31:00.366: Output 'simple_file_output': Total frames output: 398
+18:31:00.366: Output 'simple_file_output': Total drawn frames: 414
+18:31:00.366: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+18:31:00.366: [mp4 output: 'simple_file_output'] File output complete. Finalization took 0 ms.
+18:31:00.366: ==== Recording Stop ================================================
+18:31:00.426: libfdk_aac encoder destroyed
+18:31:44.160: [obs-nvenc: 'simple_video_recording'] settings:
+18:31:44.160: 	codec:        H264
+18:31:44.160: 	rate_control: CQP
+18:31:44.160: 	cqp:          21
+18:31:44.160: 	keyint:       250
+18:31:44.160: 	preset:       p5
+18:31:44.160: 	tuning:       hq
+18:31:44.160: 	multipass:    qres
+18:31:44.160: 	profile:      high
+18:31:44.160: 	width:        1280
+18:31:44.160: 	height:       720
+18:31:44.160: 	b-frames:     2
+18:31:44.160: 	b-ref-mode:   0
+18:31:44.160: 	lookahead:    true (8 frames)
+18:31:44.160: 	aq:           true
+18:31:44.160: 
+18:31:44.184: libfdk_aac encoder created
+18:31:44.184: libfdk_aac bitrate: 192, channels: 2
+18:31:44.186: ==== Recording Start ===============================================
+18:31:44.186: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 18-31-44.mp4'...
+18:31:53.359: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+18:31:53.359: [mp4 muxer: 'simple_file_output'] Number of fragments: 3
+18:31:53.359: [mp4 muxer: 'simple_file_output'] Full moov size: 7 KiB
+18:31:53.359: [mp4 muxer: 'simple_file_output'] Final mdat size: 1713 KiB
+18:31:53.359: Output 'simple_file_output': stopping
+18:31:53.359: Output 'simple_file_output': Total frames output: 534
+18:31:53.359: Output 'simple_file_output': Total drawn frames: 550
+18:31:53.359: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+18:31:53.360: [mp4 output: 'simple_file_output'] File output complete. Finalization took 0 ms.
+18:31:53.360: ==== Recording Stop ================================================
+18:31:53.424: libfdk_aac encoder destroyed
+18:31:53.871: [obs-nvenc: 'simple_video_recording'] settings:
+18:31:53.871: 	codec:        H264
+18:31:53.871: 	rate_control: CQP
+18:31:53.871: 	cqp:          21
+18:31:53.871: 	keyint:       250
+18:31:53.871: 	preset:       p5
+18:31:53.871: 	tuning:       hq
+18:31:53.871: 	multipass:    qres
+18:31:53.871: 	profile:      high
+18:31:53.871: 	width:        1280
+18:31:53.871: 	height:       720
+18:31:53.871: 	b-frames:     2
+18:31:53.871: 	b-ref-mode:   0
+18:31:53.871: 	lookahead:    true (8 frames)
+18:31:53.871: 	aq:           true
+18:31:53.871: 
+18:31:53.894: libfdk_aac encoder created
+18:31:53.894: libfdk_aac bitrate: 192, channels: 2
+18:31:53.896: ==== Recording Start ===============================================
+18:31:53.896: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 18-31-53.mp4'...
+18:32:16.449: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+18:32:16.449: [mp4 muxer: 'simple_file_output'] Number of fragments: 6
+18:32:16.449: [mp4 muxer: 'simple_file_output'] Full moov size: 17 KiB
+18:32:16.449: [mp4 muxer: 'simple_file_output'] Final mdat size: 2286 KiB
+18:32:16.449: Output 'simple_file_output': stopping
+18:32:16.449: Output 'simple_file_output': Total frames output: 1337
+18:32:16.449: Output 'simple_file_output': Total drawn frames: 1354
+18:32:16.449: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+18:32:16.449: [mp4 output: 'simple_file_output'] File output complete. Finalization took 0 ms.
+18:32:16.450: ==== Recording Stop ================================================
+18:32:16.509: libfdk_aac encoder destroyed
+18:58:20.405: [obs-nvenc: 'simple_video_recording'] settings:
+18:58:20.405: 	codec:        H264
+18:58:20.405: 	rate_control: CQP
+18:58:20.405: 	cqp:          21
+18:58:20.405: 	keyint:       250
+18:58:20.405: 	preset:       p5
+18:58:20.405: 	tuning:       hq
+18:58:20.405: 	multipass:    qres
+18:58:20.405: 	profile:      high
+18:58:20.405: 	width:        1280
+18:58:20.405: 	height:       720
+18:58:20.405: 	b-frames:     2
+18:58:20.405: 	b-ref-mode:   0
+18:58:20.405: 	lookahead:    true (8 frames)
+18:58:20.405: 	aq:           true
+18:58:20.405: 
+18:58:20.427: libfdk_aac encoder created
+18:58:20.427: libfdk_aac bitrate: 192, channels: 2
+18:58:20.429: ==== Recording Start ===============================================
+18:58:20.429: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 18-58-20.mp4'...
+18:59:06.127: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+18:59:06.128: [mp4 muxer: 'simple_file_output'] Number of fragments: 11
+18:59:06.128: [mp4 muxer: 'simple_file_output'] Full moov size: 34 KiB
+18:59:06.128: [mp4 muxer: 'simple_file_output'] Final mdat size: 8673 KiB
+18:59:06.128: Output 'simple_file_output': stopping
+18:59:06.128: Output 'simple_file_output': Total frames output: 2726
+18:59:06.128: Output 'simple_file_output': Total drawn frames: 2742
+18:59:06.128: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+18:59:06.129: [mp4 output: 'simple_file_output'] File output complete. Finalization took 1 ms.
+18:59:06.129: ==== Recording Stop ================================================
+18:59:06.186: libfdk_aac encoder destroyed
+18:59:07.201: [obs-nvenc: 'simple_video_recording'] settings:
+18:59:07.201: 	codec:        H264
+18:59:07.201: 	rate_control: CQP
+18:59:07.201: 	cqp:          21
+18:59:07.201: 	keyint:       250
+18:59:07.201: 	preset:       p5
+18:59:07.201: 	tuning:       hq
+18:59:07.201: 	multipass:    qres
+18:59:07.201: 	profile:      high
+18:59:07.201: 	width:        1280
+18:59:07.201: 	height:       720
+18:59:07.201: 	b-frames:     2
+18:59:07.201: 	b-ref-mode:   0
+18:59:07.201: 	lookahead:    true (8 frames)
+18:59:07.201: 	aq:           true
+18:59:07.201: 
+18:59:07.222: libfdk_aac encoder created
+18:59:07.223: libfdk_aac bitrate: 192, channels: 2
+18:59:07.225: ==== Recording Start ===============================================
+18:59:07.225: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 18-59-07.mp4'...
+18:59:58.615: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+18:59:58.617: [mp4 muxer: 'simple_file_output'] Number of fragments: 14
+18:59:58.617: [mp4 muxer: 'simple_file_output'] Full moov size: 38 KiB
+18:59:58.617: [mp4 muxer: 'simple_file_output'] Final mdat size: 18630 KiB
+18:59:58.617: Output 'simple_file_output': stopping
+18:59:58.617: Output 'simple_file_output': Total frames output: 3066
+18:59:58.617: Output 'simple_file_output': Total drawn frames: 3081 (3084 attempted)
+18:59:58.617: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0.1%)
+18:59:58.617: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+18:59:58.618: [mp4 output: 'simple_file_output'] File output complete. Finalization took 2 ms.
+18:59:58.618: Video stopped, number of skipped frames due to encoding lag: 3/3082 (0.1%)
+18:59:58.618: ==== Recording Stop ================================================
+18:59:58.678: libfdk_aac encoder destroyed
+19:00:24.532: [obs-nvenc: 'simple_video_recording'] settings:
+19:00:24.532: 	codec:        H264
+19:00:24.532: 	rate_control: CQP
+19:00:24.532: 	cqp:          21
+19:00:24.532: 	keyint:       250
+19:00:24.532: 	preset:       p5
+19:00:24.532: 	tuning:       hq
+19:00:24.532: 	multipass:    qres
+19:00:24.532: 	profile:      high
+19:00:24.532: 	width:        1280
+19:00:24.532: 	height:       720
+19:00:24.532: 	b-frames:     2
+19:00:24.532: 	b-ref-mode:   0
+19:00:24.532: 	lookahead:    true (8 frames)
+19:00:24.532: 	aq:           true
+19:00:24.532: 
+19:00:24.556: libfdk_aac encoder created
+19:00:24.556: libfdk_aac bitrate: 192, channels: 2
+19:00:24.558: ==== Recording Start ===============================================
+19:00:24.559: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-00-24.mp4'...
+19:02:40.036: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:02:40.037: [mp4 muxer: 'simple_file_output'] Number of fragments: 33
+19:02:40.037: [mp4 muxer: 'simple_file_output'] Full moov size: 100 KiB
+19:02:40.037: [mp4 muxer: 'simple_file_output'] Final mdat size: 21325 KiB
+19:02:40.037: Output 'simple_file_output': stopping
+19:02:40.037: Output 'simple_file_output': Total frames output: 8113
+19:02:40.037: Output 'simple_file_output': Total drawn frames: 8129
+19:02:40.038: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:02:40.038: [mp4 output: 'simple_file_output'] File output complete. Finalization took 1 ms.
+19:02:40.038: ==== Recording Stop ================================================
+19:02:40.101: libfdk_aac encoder destroyed
+19:02:51.654: [obs-nvenc: 'simple_video_recording'] settings:
+19:02:51.654: 	codec:        H264
+19:02:51.654: 	rate_control: CQP
+19:02:51.654: 	cqp:          21
+19:02:51.654: 	keyint:       250
+19:02:51.654: 	preset:       p5
+19:02:51.654: 	tuning:       hq
+19:02:51.654: 	multipass:    qres
+19:02:51.654: 	profile:      high
+19:02:51.654: 	width:        1280
+19:02:51.654: 	height:       720
+19:02:51.654: 	b-frames:     2
+19:02:51.654: 	b-ref-mode:   0
+19:02:51.654: 	lookahead:    true (8 frames)
+19:02:51.654: 	aq:           true
+19:02:51.654: 
+19:02:51.677: libfdk_aac encoder created
+19:02:51.677: libfdk_aac bitrate: 192, channels: 2
+19:02:51.679: ==== Recording Start ===============================================
+19:02:51.679: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-02-51.mp4'...
+19:03:33.898: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:03:33.898: [mp4 muxer: 'simple_file_output'] Number of fragments: 11
+19:03:33.899: [mp4 muxer: 'simple_file_output'] Full moov size: 32 KiB
+19:03:33.899: [mp4 muxer: 'simple_file_output'] Final mdat size: 3943 KiB
+19:03:33.899: Output 'simple_file_output': stopping
+19:03:33.899: Output 'simple_file_output': Total frames output: 2517
+19:03:33.899: Output 'simple_file_output': Total drawn frames: 2534
+19:03:33.899: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:03:33.899: [mp4 output: 'simple_file_output'] File output complete. Finalization took 0 ms.
+19:03:33.899: ==== Recording Stop ================================================
+19:03:33.962: libfdk_aac encoder destroyed
+19:04:19.796: [obs-nvenc: 'simple_video_recording'] settings:
+19:04:19.796: 	codec:        H264
+19:04:19.796: 	rate_control: CQP
+19:04:19.796: 	cqp:          21
+19:04:19.796: 	keyint:       250
+19:04:19.796: 	preset:       p5
+19:04:19.796: 	tuning:       hq
+19:04:19.796: 	multipass:    qres
+19:04:19.796: 	profile:      high
+19:04:19.796: 	width:        1280
+19:04:19.796: 	height:       720
+19:04:19.796: 	b-frames:     2
+19:04:19.796: 	b-ref-mode:   0
+19:04:19.796: 	lookahead:    true (8 frames)
+19:04:19.796: 	aq:           true
+19:04:19.796: 
+19:04:19.819: libfdk_aac encoder created
+19:04:19.819: libfdk_aac bitrate: 192, channels: 2
+19:04:19.821: ==== Recording Start ===============================================
+19:04:19.821: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-04-19.mp4'...
+19:04:23.268: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:04:23.269: [mp4 muxer: 'simple_file_output'] Number of fragments: 1
+19:04:23.269: [mp4 muxer: 'simple_file_output'] Full moov size: 3 KiB
+19:04:23.269: [mp4 muxer: 'simple_file_output'] Final mdat size: 1801 KiB
+19:04:23.269: Output 'simple_file_output': stopping
+19:04:23.269: Output 'simple_file_output': Total frames output: 191
+19:04:23.269: Output 'simple_file_output': Total drawn frames: 207
+19:04:23.269: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:04:23.270: [mp4 output: 'simple_file_output'] File output complete. Finalization took 1 ms.
+19:04:23.270: ==== Recording Stop ================================================
+19:04:23.331: libfdk_aac encoder destroyed
+19:04:37.163: [obs-nvenc: 'simple_video_recording'] settings:
+19:04:37.163: 	codec:        H264
+19:04:37.163: 	rate_control: CQP
+19:04:37.163: 	cqp:          21
+19:04:37.163: 	keyint:       250
+19:04:37.163: 	preset:       p5
+19:04:37.163: 	tuning:       hq
+19:04:37.163: 	multipass:    qres
+19:04:37.163: 	profile:      high
+19:04:37.163: 	width:        1280
+19:04:37.163: 	height:       720
+19:04:37.163: 	b-frames:     2
+19:04:37.163: 	b-ref-mode:   0
+19:04:37.163: 	lookahead:    true (8 frames)
+19:04:37.163: 	aq:           true
+19:04:37.163: 
+19:04:37.186: libfdk_aac encoder created
+19:04:37.186: libfdk_aac bitrate: 192, channels: 2
+19:04:37.188: ==== Recording Start ===============================================
+19:04:37.188: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-04-37.mp4'...
+19:07:29.572: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:07:29.573: [mp4 muxer: 'simple_file_output'] Number of fragments: 42
+19:07:29.574: [mp4 muxer: 'simple_file_output'] Full moov size: 127 KiB
+19:07:29.574: [mp4 muxer: 'simple_file_output'] Final mdat size: 20008 KiB
+19:07:29.574: Output 'simple_file_output': stopping
+19:07:29.574: Output 'simple_file_output': Total frames output: 10327
+19:07:29.574: Output 'simple_file_output': Total drawn frames: 10343
+19:07:29.574: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:07:29.574: [mp4 output: 'simple_file_output'] File output complete. Finalization took 2 ms.
+19:07:29.575: ==== Recording Stop ================================================
+19:07:29.640: libfdk_aac encoder destroyed
+19:13:59.987: [obs-nvenc: 'simple_video_recording'] settings:
+19:13:59.987: 	codec:        H264
+19:13:59.987: 	rate_control: CQP
+19:13:59.987: 	cqp:          21
+19:13:59.987: 	keyint:       250
+19:13:59.987: 	preset:       p5
+19:13:59.987: 	tuning:       hq
+19:13:59.987: 	multipass:    qres
+19:13:59.987: 	profile:      high
+19:13:59.987: 	width:        1280
+19:13:59.987: 	height:       720
+19:13:59.987: 	b-frames:     2
+19:13:59.987: 	b-ref-mode:   0
+19:13:59.987: 	lookahead:    true (8 frames)
+19:13:59.987: 	aq:           true
+19:13:59.987: 
+19:14:00.009: libfdk_aac encoder created
+19:14:00.009: libfdk_aac bitrate: 192, channels: 2
+19:14:00.011: ==== Recording Start ===============================================
+19:14:00.011: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-13-59.mp4'...
+19:21:01.432: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:21:01.433: [mp4 muxer: 'simple_file_output'] Number of fragments: 102
+19:21:01.436: [mp4 muxer: 'simple_file_output'] Full moov size: 310 KiB
+19:21:01.436: [mp4 muxer: 'simple_file_output'] Final mdat size: 95195 KiB
+19:21:01.436: Output 'simple_file_output': stopping
+19:21:01.436: Output 'simple_file_output': Total frames output: 25264
+19:21:01.436: Output 'simple_file_output': Total drawn frames: 25248 (25286 attempted)
+19:21:01.436: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 38 (0.2%)
+19:21:01.436: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:21:01.436: [mp4 output: 'simple_file_output'] File output complete. Finalization took 4 ms.
+19:21:01.437: Video stopped, number of skipped frames due to encoding lag: 38/25284 (0.2%)
+19:21:01.437: ==== Recording Stop ================================================
+19:21:01.498: libfdk_aac encoder destroyed
+19:21:21.758: [obs-nvenc: 'simple_video_recording'] settings:
+19:21:21.758: 	codec:        H264
+19:21:21.758: 	rate_control: CQP
+19:21:21.758: 	cqp:          21
+19:21:21.758: 	keyint:       250
+19:21:21.758: 	preset:       p5
+19:21:21.758: 	tuning:       hq
+19:21:21.758: 	multipass:    qres
+19:21:21.758: 	profile:      high
+19:21:21.758: 	width:        1280
+19:21:21.758: 	height:       720
+19:21:21.758: 	b-frames:     2
+19:21:21.758: 	b-ref-mode:   0
+19:21:21.758: 	lookahead:    true (8 frames)
+19:21:21.758: 	aq:           true
+19:21:21.758: 
+19:21:21.782: libfdk_aac encoder created
+19:21:21.782: libfdk_aac bitrate: 192, channels: 2
+19:21:21.785: ==== Recording Start ===============================================
+19:21:21.785: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-21-21.mp4'...
+19:24:21.327: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:24:21.327: [mp4 muxer: 'simple_file_output'] Number of fragments: 44
+19:24:21.328: [mp4 muxer: 'simple_file_output'] Full moov size: 132 KiB
+19:24:21.328: [mp4 muxer: 'simple_file_output'] Final mdat size: 28631 KiB
+19:24:21.328: Output 'simple_file_output': stopping
+19:24:21.328: Output 'simple_file_output': Total frames output: 10756
+19:24:21.328: Output 'simple_file_output': Total drawn frames: 10772
+19:24:21.328: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:24:21.329: ==== Recording Stop ================================================
+19:24:21.329: [mp4 output: 'simple_file_output'] File output complete. Finalization took 1 ms.
+19:24:21.390: libfdk_aac encoder destroyed
+19:24:45.956: [obs-nvenc: 'simple_video_recording'] settings:
+19:24:45.956: 	codec:        H264
+19:24:45.956: 	rate_control: CQP
+19:24:45.956: 	cqp:          21
+19:24:45.956: 	keyint:       250
+19:24:45.956: 	preset:       p5
+19:24:45.956: 	tuning:       hq
+19:24:45.956: 	multipass:    qres
+19:24:45.956: 	profile:      high
+19:24:45.956: 	width:        1280
+19:24:45.956: 	height:       720
+19:24:45.956: 	b-frames:     2
+19:24:45.956: 	b-ref-mode:   0
+19:24:45.956: 	lookahead:    true (8 frames)
+19:24:45.956: 	aq:           true
+19:24:45.956: 
+19:24:45.979: libfdk_aac encoder created
+19:24:45.979: libfdk_aac bitrate: 192, channels: 2
+19:24:45.981: ==== Recording Start ===============================================
+19:24:45.981: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/gh0sty/Videos/OBS/2025-10-26 19-24-45.mp4'...
+19:33:23.981: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:33:23.982: [mp4 muxer: 'simple_file_output'] Number of fragments: 125
+19:33:23.985: [mp4 muxer: 'simple_file_output'] Full moov size: 381 KiB
+19:33:23.985: [mp4 muxer: 'simple_file_output'] Final mdat size: 68109 KiB
+19:33:23.985: Output 'simple_file_output': stopping
+19:33:23.985: Output 'simple_file_output': Total frames output: 31064
+19:33:23.985: Output 'simple_file_output': Total drawn frames: 31080
+19:33:23.985: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:33:23.986: ==== Recording Stop ================================================
+19:33:23.986: [mp4 output: 'simple_file_output'] File output complete. Finalization took 4 ms.
+19:33:24.045: libfdk_aac encoder destroyed
+22:53:43.641: adding 149 milliseconds of audio buffering, total audio buffering is now 192 milliseconds (source: Äänentoistolaite)
+22:53:43.641: 

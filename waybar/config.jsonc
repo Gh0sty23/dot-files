@@ -22,10 +22,9 @@
         // "custom/vkeyboard",
         "privacy",
         "idle_inhibitor",
+	"memory",
         "custom/clipboard",
         "pulseaudio",
-        "backlight",
-        "battery",
         "tray",
         "custom/power"
     ],

@@ -1,0 +1,178 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 843,
+      "width": 776,
+      "x": -3,
+      "y": -30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 810,
+      "width": 770,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 810,
+      "width": 770,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAD////9////4gAAAwQAAAMsAAAAAAAAAAAAAAMBAAADKQAAAAAAAAAABkAAAAAAAAAAAAAAAwEAAAMp"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2014H",
+      "name": "HDMI-A-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 900,
+        "width": 1600
+      },
+      "virtual_geometry": {
+        "height": 900,
+        "width": 1600,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAACWPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACWAAAAIYA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlAD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACXAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOYA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEgD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM8A////AAADAgAAAyoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/home/gh0sty/Downloads/voucher.pdf",
+        "pathtoebook": "/home/gh0sty/Downloads/voucher.pdf",
+        "timestamp": "2025-10-27T05:01:57.067Z",
+        "title": "voucher"
+      },
+      {
+        "key": "/home/gh0sty/Downloads/Noto_Sans_Yi/OFL.txt",
+        "pathtoebook": "/home/gh0sty/Downloads/Noto_Sans_Yi/OFL.txt",
+        "timestamp": "2025-10-26T15:53:11.555Z",
+        "title": "OFL"
+      },
+      {
+        "authors": [
+          "Chien-Wen Kung"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Downloads\\Diasporic Cold Warriors_ Nationalist China, Anticommunism, -- Chien-Wen Kung -- Studies of the Weatherhead East Asian Institute, Columbia -- Cornell -- 9781501762215 -- d85e0ffb52afa63287e3ce648f55dd1.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Downloads\\Diasporic Cold Warriors_ Nationalist China, Anticommunism, -- Chien-Wen Kung -- Studies of the Weatherhead East Asian Institute, Columbia -- Cornell -- 9781501762215 -- d85e0ffb52afa63287e3ce648f55dd1.epub",
+        "timestamp": "2025-10-02T15:06:34.222Z",
+        "title": "Diasporic Cold Warriors Nationalist China, Anticommunism"
+      },
+      {
+        "key": "C:\\Users\\Gh0sty\\Downloads\\Diasporic-Cold-Warriors_-Nationalist-China_-Anticommunism_-Chien-Wen-Kung-Studies-of-the-Weatherhead.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Downloads\\Diasporic-Cold-Warriors_-Nationalist-China_-Anticommunism_-Chien-Wen-Kung-Studies-of-the-Weatherhead.epub",
+        "timestamp": "2025-10-02T15:05:47.130Z",
+        "title": "e949b4d10b654ae5fc27ea8b845c19a5"
+      },
+      {
+        "authors": [
+          "Chien-Wen Kung"
+        ],
+        "key": "Z:\\Library\\History Library\\Chien-Wen Kung\\Diasporic Cold Warriors Nationalist (15)\\Diasporic Cold Warriors Nationa - Chien-Wen Kung.pdf",
+        "pathtoebook": "Z:\\Library\\History Library\\Chien-Wen Kung\\Diasporic Cold Warriors Nationalist (15)\\Diasporic Cold Warriors Nationa - Chien-Wen Kung.pdf",
+        "timestamp": "2025-10-02T13:43:30.775Z",
+        "title": "Diasporic Cold Warriors Nationa"
+      },
+      {
+        "authors": [
+          "Vina A Lanzona"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Shared Library\\Vina A Lanzona\\Amazons of the Huk rebellion_ gender (2)\\Amazons of the Huk rebellion_ g - Vina A Lanzona.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Shared Library\\Vina A Lanzona\\Amazons of the Huk rebellion_ gender (2)\\Amazons of the Huk rebellion_ g - Vina A Lanzona.epub",
+        "timestamp": "2025-10-02T12:28:22.975Z",
+        "title": "Amazons of the Huk rebellion: gender, sex, and revolution in the Philippines"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\John Schember\\Quick Start Guide (1)\\Quick Start Guide - John Schember.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\John Schember\\Quick Start Guide (1)\\Quick Start Guide - John Schember.epub",
+        "timestamp": "2025-10-01T07:39:03.488Z",
+        "title": "Quick Start Guide"
+      },
+      {
+        "authors": [
+          "Chien-Wen Kung"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Chien-Wen Kung\\Diasporic Cold Warriors Nationa (15)\\Diasporic Cold Warriors Nationa - Chien-Wen Kung.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Chien-Wen Kung\\Diasporic Cold Warriors Nationa (15)\\Diasporic Cold Warriors Nationa - Chien-Wen Kung.epub",
+        "timestamp": "2025-10-01T06:17:47.463Z",
+        "title": "Diasporic Cold Warriors Nationa"
+      },
+      {
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Unknown\\annas-arch-d85e0ffb52af (14)\\annas-arch-d85e0ffb52af - Unknown.pdf",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Unknown\\annas-arch-d85e0ffb52af (14)\\annas-arch-d85e0ffb52af - Unknown.pdf",
+        "timestamp": "2025-10-01T06:10:09.397Z",
+        "title": "annas-arch-d85e0ffb52af"
+      },
+      {
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Unknown\\aaeefd3d-678c-43f6-905c-e09375de2e0b (13)\\aaeefd3d-678c-43f6-905c-e09375d - Unknown.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Unknown\\aaeefd3d-678c-43f6-905c-e09375de2e0b (13)\\aaeefd3d-678c-43f6-905c-e09375d - Unknown.epub",
+        "timestamp": "2025-10-01T06:08:39.720Z",
+        "title": "aaeefd3d-678c-43f6-905c-e09375de2e0b"
+      },
+      {
+        "authors": [
+          "Vladimir Ilyich Lenin"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Vladimir Ilyich Lenin\\Lenin_ The Three Sources and Three C (11)\\Lenin_ The Three Sources and Th - Vladimir Ilyich Lenin.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Vladimir Ilyich Lenin\\Lenin_ The Three Sources and Three C (11)\\Lenin_ The Three Sources and Th - Vladimir Ilyich Lenin.epub",
+        "timestamp": "2025-10-01T06:05:09.951Z",
+        "title": "Lenin: The Three Sources and Three Component Parts of Marxism"
+      },
+      {
+        "authors": [
+          "Chien-Wen Kung"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Chien-Wen Kung\\Diasporic Cold Warriors (12)\\Diasporic Cold Warriors - Chien-Wen Kung.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Chien-Wen Kung\\Diasporic Cold Warriors (12)\\Diasporic Cold Warriors - Chien-Wen Kung.epub",
+        "timestamp": "2025-10-01T06:00:02.708Z",
+        "title": "Diasporic Cold Warriors"
+      },
+      {
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Unknown\\Lenin_ The Three Sources and Three C (11)\\Lenin_ The Three Sources and Th - Unknown.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Unknown\\Lenin_ The Three Sources and Three C (11)\\Lenin_ The Three Sources and Th - Unknown.epub",
+        "timestamp": "2025-10-01T05:58:54.646Z",
+        "title": "Lenin: The Three Sources and Three Component Parts of Marxism"
+      },
+      {
+        "authors": [
+          "Vina A Lanzona"
+        ],
+        "key": "C:\\Users\\Gh0sty\\Calibre Library\\Vina A Lanzona\\Amazons of the Huk rebellion_ gender (2)\\Amazons of the Huk rebellion_ g - Vina A Lanzona.epub",
+        "pathtoebook": "C:\\Users\\Gh0sty\\Calibre Library\\Vina A Lanzona\\Amazons of the Huk rebellion_ gender (2)\\Amazons of the Huk rebellion_ g - Vina A Lanzona.epub",
+        "timestamp": "2025-10-01T05:21:37.620Z",
+        "title": "Amazons of the Huk rebellion: gender, sex, and revolution in the Philippines"
+      }
+    ]
+  }
+}
